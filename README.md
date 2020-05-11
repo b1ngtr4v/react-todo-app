@@ -1,6 +1,7 @@
 # react-todo-app
 Frontend React.js App made for ToDo App
 
+## Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
